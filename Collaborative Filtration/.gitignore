@@ -1,0 +1,9 @@
+.DS_Store
+*.bz2
+NN
+CV
+dataset.csv
+.ipynb*
+Lesson3*
+*zip
+*csv
